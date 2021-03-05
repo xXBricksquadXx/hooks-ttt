@@ -1,7 +1,7 @@
-import "./App.css";
+import { Board } from "./components";
 
 function App() {
-  return <div className="App"></div>;
+  return <Board />;
 }
 
 export default App;
